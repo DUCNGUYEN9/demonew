@@ -4,4 +4,6 @@
  
   echo var_dump($x);
   print "this is print";
+
+  //this is the comment
 ?>
