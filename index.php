@@ -6,4 +6,6 @@
   print "this is print";
 
   //this is the comment
+
+  echo "edit by a";
 ?>
